@@ -1,5 +1,5 @@
 while true do
-loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pizillakidd/k00psoundspam/e666494df1d1a93ab8526e871e14d047ec0c9557/spamlol?token=GHSAT0AAAAAACQNGJXC3BTFUHSWRIALWTPGZQLQPKQ",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pizillakidd/k00psoundspam/main/spamlol?token=GHSAT0AAAAAACQNGJXCBYAT5JPT66J32CR2ZQLQ6SQ",true))()
 
 local A_1 = "join team k00pizillakidD today! "
 local A_2 = "All"
